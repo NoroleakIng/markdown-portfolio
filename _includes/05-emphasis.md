@@ -3,9 +3,9 @@
 *Major* : **B.E. Software Engineering**
 ## My Schedule
 | Session |    Session    |                Course                  |
-| ------- |:-------------:|:--------------------------------------:|
+|:-------:|:-------------:|:--------------------------------------:|
 |  *No*   |   `Timing`    |             **Session**                |
-|   1     | 7.30 - 8.20   |        English Speech & Oral           |
+|   1     | 7.30 - 8.20   |English Speech & Oral                   |
 |   2     | 8.21 - 9.10   |        HTML CSS & JavaScript           |
 |   3     | 9.11 - 10.00  |              IT Literacy               |
 |   4     | 10.16 - 11.05 | English Grammar & Intensive Vocabulary |
