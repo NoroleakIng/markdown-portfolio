@@ -19,6 +19,6 @@
 - Food
   - Japanese
   - European
-  - American
+
   
 ---
