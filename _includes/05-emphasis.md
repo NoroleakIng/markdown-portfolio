@@ -2,7 +2,7 @@
 
 *Major* : **B.E. Software Engineering**
 ## My Schedule
-Session | Session |Course
+Session | Session | Course
 --- | --- | ---
 *No* | `Timing` | **Session**
 1 | 7.30 - 8.20 | English Speech & Oral
