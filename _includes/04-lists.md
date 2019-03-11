@@ -8,7 +8,7 @@
   - Mystery fiction
   - Historical fiction
 - Game
-  - RPG
+  - Role Playing
   - Simulation
   - Action
 - Sport
