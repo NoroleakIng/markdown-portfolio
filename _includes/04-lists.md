@@ -1,4 +1,5 @@
 ## My favorite things
+
 - Movie
   - Sci-fi
   - Fantasy
