@@ -1,4 +1,4 @@
->*Year **1** Student*
+*Year **1** Student*
 
 *Major* : **B.E. Software Engineering**
 ## My Schedule
